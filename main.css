@@ -1,6 +1,7 @@
 body{
 
     font-family: 'Poppins', sans-serif;
+    
 }
 
 /*top banner css codes start here*/
@@ -33,9 +34,6 @@ color: white;
     padding-bottom: 50px;
 }
 
-.navbar-toggler {
-  background-image: 
-  }
 
   .headbanner span{
 
@@ -81,18 +79,21 @@ color: white;
 
   /*top banner css codes ends here*/
 
+
+  /*Description Code Start Here*/
+
   .description{
 
     margin-top: 30px;
   }
 
 
-  .description h5, p{
-     text-align: center;
-     display: flex;
-    justify-content: center;
-    margin: auto;
-  }
+  .h5p{
+    text-align: center;
+    display: flex;
+   justify-content: center;
+   margin: auto;
+ }
   .description h5{
       margin-top: -10px;
       color: #413960;
@@ -132,3 +133,256 @@ color: white;
     margin: auto;
     text-align: center;
   }
+
+/*Description Code Start Here*/
+
+
+/* Online Courses CSS Start Here*/
+
+
+
+
+  .card-title{
+
+    color: #413960;
+    font-size: 24px;
+    font-weight: 500;
+  }
+
+  .card-text{
+
+    color:#585859;
+  font-size: 17px;
+  }
+
+  .card-text2{
+
+    color:#585859;
+  font-size: 18px;
+  font-weight: bold;
+  }
+
+  .buy-courses{
+    width: 130px;
+    padding: 7px 10px;
+    background-color: #21B573;
+    border: none;
+    border-radius: 25px;
+    color: white;
+    margin-top: px;
+
+  }
+
+  .seats{
+
+    margin-top: 30px;
+  }
+
+  .card-deck .card {
+    -ms-flex: 1 0 0%;
+    flex: 1 0 0%;
+    margin-right: 15px;
+    margin-bottom: 0;
+    margin-left: 15px;
+    padding: 10px 10px;
+    border: none;
+    box-shadow: 5px 5px 15px lightgray;
+    border-radius: 15px;
+}
+
+.online-courses{
+
+    color: #413960;
+    font-size: 36px;
+    font-weight: bold;
+    text-align: center;
+    line-height: 5;
+}
+
+/* Online Courses CSS End Here*/
+
+
+
+/* Testimonial CSS Start Here*/
+.testimonial{
+
+    font-weight: bold;
+    color: black;
+    font-size: 36px;
+    text-align: center;
+    line-height: 5;
+}
+
+
+
+@media (max-width: 767px) {
+.man-image{margin-right:85px;}
+
+
+.man-image-p{
+  margin-top: 15px;
+  text-align: center;
+  padding: 5px 8px;
+}}
+
+.testimonial-container{
+
+    padding-bottom: 35px;
+}
+
+
+/* Online Courses CSS End Here*/
+
+
+/*Bonus Codes Start Here*/
+
+@media (max-width: 767px) {
+
+.take-tour{
+background-color: #21B573;
+color: white;
+transition: all 0.6s;
+
+}
+
+.take-tour:hover{
+background-color: #F9831A;
+
+
+
+
+color:black
+}
+
+.start-now{
+
+    background-color: #9E5AF6;
+    color: white;
+    transition: all 0.6s;
+    
+}
+
+.start-now:hover{
+background-color: #138496;
+color: black;
+
+
+}
+
+}
+
+@media (min-width: 768px) {
+    .take-tour{
+        background-color: #21B573;
+        color: white;
+        transition: all 0.6s;
+        
+        }
+        
+        .take-tour:hover{
+        background-color: #F9831A;
+        
+        margin-bottom: 8px;
+        font-size:20px;
+       
+        
+        color:black
+        }
+        
+        .start-now{
+        
+            background-color: #9E5AF6;
+            color: white;
+            transition: all 0.6s;
+            margin-top: 20px;
+            
+        }
+        
+        .start-now:hover{
+        background-color: #138496;
+        color: black;
+        margin-top: 18px;
+        font-size:20px;
+        
+        
+        }
+
+}
+@media (min-width: 1200px) {
+
+    .take-tour{
+        background-color: #21B573;
+        color: white;
+        transition: all 0.6s;
+        
+        }
+        
+        .take-tour:hover{
+        background-color: #F9831A;
+        
+        margin-bottom: 8px;
+        font-size:20px;
+       
+        color:black
+        }
+
+        .start-now{
+            background-color: #9E5AF6;
+            color: white;
+            transition: all 0.6s;
+            margin-top: 20px;
+            
+            }
+            
+            .start-now:hover{
+            background-color: #138496;
+            
+            margin-bottom: 8px;
+            font-size:20px;
+            margin-top: 18px;
+            
+            color:black
+            }
+        
+        
+
+}
+
+#bonus{
+
+    
+    padding:30px 10px;
+    border-radius: 15px;
+   
+}
+/*Bonus Codes End Here */
+
+
+/*footer code Start Here*/
+
+.foo{
+
+    background-color: #282531!important;
+    color: white!important;
+    padding: 30px 20px;
+    margin-bottom: 0px;
+  
+    
+}
+
+
+.foo a{
+   color: whitesmoke;
+   text-decoration: none;
+}
+
+
+
+/*footer code ends here*/
+
+html {
+    scroll-behavior: smooth;
+    height: 100%!important;
+  }
+
+  

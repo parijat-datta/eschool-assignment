@@ -158,8 +158,8 @@ color: white;
   .card-text2{
 
     color:#585859;
-  font-size: 18px;
-  font-weight: bold;
+  font-size: 17px;
+  font-weight: 900;
   }
 
   .buy-courses{
@@ -199,6 +199,10 @@ color: white;
     line-height: 5;
 }
 
+.cal{
+    width: 20%;
+}
+
 /* Online Courses CSS End Here*/
 
 
@@ -231,7 +235,9 @@ color: white;
 }
 
 
-/* Online Courses CSS End Here*/
+
+
+
 
 
 /*Bonus Codes Start Here*/

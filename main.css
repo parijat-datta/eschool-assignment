@@ -1,0 +1,134 @@
+body{
+
+    font-family: 'Poppins', sans-serif;
+}
+
+/*top banner css codes start here*/
+.navbar-expand-lg img{
+
+    width: 30%;
+}
+
+.navlink a {
+
+    color: black!important;
+}
+
+.sign-in{
+
+width: 100px;
+padding: 7px 15px;
+background-color: #21B573;
+border: none;
+border-radius: 25px;
+color: white;
+
+
+
+}
+
+.navclass{
+
+    background-color: #F0FFF0;
+    padding-bottom: 50px;
+}
+
+.navbar-toggler {
+  background-image: 
+  }
+
+  .headbanner span{
+
+    color: #21B573;
+  }
+
+  .headbanner h1{
+
+    font-size: 52px;
+    font-weight: 700;
+    margin-top: 20px;
+  }
+
+  .headbanner p{
+      font-size:17px;
+      line-height: 2.2;
+      text-align: left;
+      color: #6C6B6B;
+      font-weight: 300;
+      margin-top: 20px;
+     
+  }
+
+  .headbanner h6{
+
+    color: #FD511A;
+  }
+
+  .headcontainer{
+
+    margin-top: 50px;
+  }
+
+  .get-started{
+    width: 150px;
+    padding: 10px 25px;
+    background-color: #21B573;
+    border: none;
+    border-radius: 25px;
+    color: white;
+    margin-top: 20px;
+  }
+
+  /*top banner css codes ends here*/
+
+  .description{
+
+    margin-top: 30px;
+  }
+
+
+  .description h5, p{
+     text-align: center;
+     display: flex;
+    justify-content: center;
+    margin: auto;
+  }
+  .description h5{
+      margin-top: -10px;
+      color: #413960;
+      font-size: 24;
+      font-weight: 700;
+ }
+ .description p{
+
+    margin-top: -20px;
+ }
+  .greenbackground{
+
+    background-color: #F8FFFB;
+    padding: 20px 10px;
+    height: 270px;
+    border: none;
+    border-radius: 10px;
+    transition: all 0.6s;
+  }
+
+  .greenbackground:hover{
+      box-shadow: 5px 5px 15px lightgray;
+      background-color: white;
+    padding: 20px 10px;
+    height: 270px;
+    border: none;
+    border-radius: 10px;
+    transform: scale(1.05)
+  }
+
+  .iconimages{
+
+    width: 66px;
+    height: 85px;
+    display: flex;
+    justify-content: center;
+    margin: auto;
+    text-align: center;
+  }
